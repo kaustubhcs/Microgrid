@@ -5,17 +5,22 @@ Work Update
 5th September
 
 Kaustubh: 
+
 1.	Studying K8 (8 Fastest Algorithms)
 2.	More ways to apply Neural Networks to Power Systems
 3.	Latest and the best way previously Neural Networks were applied
 4.	Simulate one learning algorithm using SCADA, MATLAB, Visual Studio. 
+
+
 Ashwin:
+
 1. Implementing one particular converter structure
 2. Interfacing the converter with the control system
 3. Interfacing the converter structure with communication channel
 4. Address the current problems in converters and tackle them in the implemented scheme
 
 Ahan
+
 1.	Identifying best possible communication protocol.
 2.	Performing Data Acquisition
 3.	Exploring cooperation between multi-agents

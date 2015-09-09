@@ -14,10 +14,10 @@ Kaustubh:
 
 Ashwin:
 
-1. Implementing one particular converter structure
-2. Interfacing the converter with the control system
-3. Interfacing the converter structure with communication channel
-4. Address the current problems in converters and tackle them in the implemented scheme
+1.	Implementing one particular converter structure
+2.	Interfacing the converter with the control system
+3.	Interfacing the converter structure with communication channel
+4.	Address the current problems in converters and tackle them in the implemented scheme
 
 Ahan
 
@@ -27,18 +27,18 @@ Ahan
 
 Mohit
 
-1. Applying various control strategies in inverter control.
-2. Droop controllers
-3. Applying game theory in microgrids
+1.	Applying various control strategies in inverter control.
+2.	Droop controllers
+3.	Applying game theory in microgrids
 
 **9th September**
 
 ### Work for everyone
 
-- 1. Centralized vs Decentralized
-- 2. Advantages and disadvantages of each
-- 3. How to achieve it ?
-- 4. System model ?
+-	Centralized vs Decentralized
+-	Advantages and disadvantages of each
+-	How to achieve it ?
+-	System model ?
 
 
 ### Work Contribution by

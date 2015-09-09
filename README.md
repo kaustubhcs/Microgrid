@@ -35,21 +35,11 @@ Mohit
 
 ### Work for everyone
 
-1. Centralized vs Decentralized
-2. Advantages and disadvantages of each
-3. How to achieve it ?
-4. System model ?
+- 1. Centralized vs Decentralized
+- 2. Advantages and disadvantages of each
+- 3. How to achieve it ?
+- 4. System model ?
 
-
-
-
-
-
-
--
--
--
--
 
 ### Work Contribution by
 

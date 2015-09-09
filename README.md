@@ -2,7 +2,7 @@
 
 Work Update
 
-5th September
+*5th September*
 
 Kaustubh: 
 
@@ -30,5 +30,15 @@ Mohit
 1. Applying various control strategies in inverter control.
 2. Droop controllers
 3. Applying game theory in microgrids
+
+*9th September*
+
+Work for everyone
+
+Centralized vs Decentralized
+Advantages and disadvantages of each
+How to achieve it ?
+System model ?
+
 
 ~Ahan / ~Ashwin / ~Kaustubh / ~Mohit

@@ -33,12 +33,12 @@ Mohit
 
 *9th September*
 
-Work for everyone
+## Work for everyone
 
-Centralized vs Decentralized
-Advantages and disadvantages of each
-How to achieve it ?
-System model ?
+#### Centralized vs Decentralized
+#### Advantages and disadvantages of each
+#### How to achieve it ?
+#### System model ?
 
 
-~Ahan / ~Ashwin / ~Kaustubh / ~Mohit
+### ~Ahan / ~Ashwin / ~Kaustubh / ~Mohit

@@ -2,7 +2,7 @@
 
 Work Update
 
-*5th September*
+**5th September**
 
 Kaustubh: 
 
@@ -31,14 +31,26 @@ Mohit
 2. Droop controllers
 3. Applying game theory in microgrids
 
-*9th September*
+**9th September**
 
-## Work for everyone
+### Work for everyone
 
-#### Centralized vs Decentralized
-#### Advantages and disadvantages of each
-#### How to achieve it ?
-#### System model ?
+##### Centralized vs Decentralized
+##### Advantages and disadvantages of each
+##### How to achieve it ?
+##### System model ?
 
+
+
+
+
+
+
+
+
+
+
+
+### Work Contribution
 
 ### ~Ahan / ~Ashwin / ~Kaustubh / ~Mohit

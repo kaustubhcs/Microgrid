@@ -35,10 +35,10 @@ Mohit
 
 ### Work for everyone
 
-##### Centralized vs Decentralized
-##### Advantages and disadvantages of each
-##### How to achieve it ?
-##### System model ?
+1. Centralized vs Decentralized
+2. Advantages and disadvantages of each
+3. How to achieve it ?
+4. System model ?
 
 
 
@@ -46,11 +46,11 @@ Mohit
 
 
 
+-
+-
+-
+-
 
-
-
-
-
-### Work Contribution
+### Work Contribution by
 
 ### ~Ahan / ~Ashwin / ~Kaustubh / ~Mohit

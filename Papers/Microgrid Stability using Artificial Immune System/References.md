@@ -30,4 +30,6 @@ https://www.youtube.com/watch?v=S0A8f9mX_aE&list=PLAB2FC119A2CA3C57&index=24
 ## Immunology Map VII - Adaptive (Acquired) Immunity
 https://www.youtube.com/watch?v=gFEJDxl4-xs&list=PLAB2FC119A2CA3C57&index=25
 
+## Artificial Intelligence Books by Rich, Knight, Nair
+
 

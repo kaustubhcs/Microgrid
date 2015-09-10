@@ -17,6 +17,8 @@ Kaustubh:
 
 Ashwin:
 
+[!Cat](http://www.fndvisions.org/img/cutecat.jpg)
+
 1.	Implementing one particular converter structure
 2.	Interfacing the converter with the control system
 3.	Interfacing the converter structure with communication channel
